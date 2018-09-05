@@ -1,13 +1,11 @@
-# Hackathon based on Machine Learning
-Task: Generating Transcripts of audio using live Recording, also recognizing emotion from tone using various Machine Learning API's
+# Jarvis Captionizer and Translator
 
-Our Application JARVIS 
-1. JARVIS is capable of transcribing, generating closed captioning subtitles of spoken words in various Indian Languages(Hindi, Tamil, Telugu supported only) during Live recording or from a audio file
+1. JARVIS is capable of transcribing, generating closed captioning subtitles of spoken words in various Indian Languages(Hindi,   Tamil, Telugu supported only) during Live recording or from a audio file
 2. JARVIS also analyses the emotion of the speaker and give summary of it.
 3. Capabale of saving the transcribed words in specific file.
 
 
-How to open and use JARVIS
+## How to open and use JARVIS
 1. Execute the file /Binary/SpeechToText.exe
 2. Click on the RECORD icon to record the voice live.
 3. Click on the Language icon and select the preferred language.
@@ -20,10 +18,13 @@ How to open and use JARVIS
 ![alt text](https://github.com/pTidke/Hackathon/blob/master/Capture%203.PNG?raw=true)
 ![alt text](https://github.com/pTidke/Hackathon/blob/master/Screenshot%20(1).png?raw=true)
 
-API's used
+## API's used
 1. IBM Watson Speech to text
 2. Yandex Language translator( Supports Indian native languages like Hindi, Tamil, Telugu etc.)
 3. IBM Watson Tone Analyser
 
-Conclusion
-JARVIS is capable to record or upload audio , then trancribing it to generate closed caption subtitles of spoken words in various Indian Languages.
+## Contributers
+1. Somya Jain
+2. Rahul Jain
+3. Mohit Singh Rajput
+4. Tidke Prajwal
